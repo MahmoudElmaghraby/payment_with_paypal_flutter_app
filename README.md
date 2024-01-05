@@ -1,16 +1,13 @@
-# payment_flutter_app
+# Payment with PayPal Flutter App
 
-A new Flutter project.
+This Flutter application demonstrates the seamless integration of PayPal as a payment method, providing a secure and efficient solution for transaction processing. Whether you're a Flutter enthusiast exploring payment gateways or a developer seeking a reliable example of PayPal integration, this project serves as a valuable resource.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Flutter-based mobile app
+- PayPal payment method integration
+- Secure and streamlined transaction processing
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Payment Details Page](https://github.com/MahmoudElmaghraby/payment_with_paypal_flutter_app/blob/master/screenshots/payment%20details%20page.png?raw=true)
