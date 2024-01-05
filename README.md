@@ -9,5 +9,5 @@ This Flutter application demonstrates the seamless integration of PayPal as a pa
 - Secure and streamlined transaction processing
 
 ## Demo
-Payment Details Page
+###Payment Details Page
 ![Payment Details Page](https://github.com/MahmoudElmaghraby/payment_with_paypal_flutter_app/blob/master/screenshots/payment%20details%20page.png?raw=true)
